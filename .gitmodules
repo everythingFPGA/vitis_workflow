@@ -1,0 +1,3 @@
+[submodule "vitis_scripts"]
+	path = vitis_scripts
+	url = https://github.com/everythingFPGA/vitis_scripts.git
